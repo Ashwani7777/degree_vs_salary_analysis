@@ -1,6 +1,6 @@
 # degree_vs_salary_analysis
 
-Data analysis on college majors vs salary**  
+**Data analysis on college majors vs salary**  
   This project deals with the report on college degress and their respective salaries. Got the data from Payscale (https://www.payscale.com/college-salary-report) and export it as csv. This project analyses on:  
   - Which degrees have the highest starting salaries
   - Which college degrees have the lowest earnings after college
